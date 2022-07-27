@@ -1,1 +1,1 @@
-# primeirog_2t
+# 1G_2t
