@@ -78,4 +78,22 @@ li a:hover {
   justify-content: center;
 
 }
+.rodape {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  left: 0%;
+  height: 20px;
+  background: #aaaaaa;
+  color: aquamarine;
+  justify-content: center;
+  display: flex;
+  padding: 2px;
+  font-size: 20px;
+}
+.conteudo {
+  position: absolute;
+  top: 45%;
+}
+
 
