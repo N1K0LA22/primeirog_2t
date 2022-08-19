@@ -1,8 +1,8 @@
 body {
-  background: #AAAAAA;
+  background: #f7f5f5;
 }
 h1 {
-  text-align: center;
+  text-align: auto;
 }
 .caixa1 {
   position: absolute;
@@ -60,7 +60,8 @@ li a:hover {
   background: blue;
 }
 #macaco2 {
-  width: 10%;
+  width: 20%;
+
 }
 .caixaMacaco2 {
   position: absolute;
